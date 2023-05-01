@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/laser.png</file>
+        <file>Image/Down.png</file>
+        <file>Image/Left.png</file>
+        <file>Image/Right.png</file>
+        <file>Image/Up.png</file>
+        <file>Image/arrow-down.png</file>
+        <file>Image/arrow-left.png</file>
+        <file>Image/arrow-right.png</file>
+        <file>Image/arrow-up.png</file>
+        <file>Image/radiobutton_checked.png</file>
+        <file>Image/radiobutton_unchecked.png</file>
+        <file>Image/laser.jpg</file>
+        <file>Image/laser.ico</file>
+        <file>Sound/notify.wav</file>
+        <file>Sound/uvedomlenie8.wav</file>
+        <file>Sound/uvedomlenie11.wav</file>
+    </qresource>
+</RCC>
